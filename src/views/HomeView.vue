@@ -34,25 +34,6 @@
           Você errou, tente novamente
         </h2>
       </div>
-      <div
-        class="absolute bg-red-500 opacity-50 z-50 pointer-events-none"
-        style="left: 93%; top: 65%; width: 2%; height: 12%"
-      ></div>
-
-      <div
-        class="absolute bg-red-500 opacity-50 z-50 pointer-events-none"
-        style="left: 0%; top: 0%; width: 14%; height: 25%"
-      ></div>
-
-      <div
-        class="absolute bg-red-500 opacity-50 z-50 pointer-events-none"
-        style="left: 0%; top: 85%; width: 3%; height: 15%"
-      ></div>
-
-      <div
-        class="absolute bg-red-500 opacity-50 z-50 pointer-events-none"
-        style="left: 23%; top: 89%; width: 4%; height: 9%"
-      ></div>
     </section>
   </main>
 </template>
